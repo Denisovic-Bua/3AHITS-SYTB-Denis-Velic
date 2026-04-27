@@ -54,9 +54,10 @@ Jetzt solltest du dich ohne Passwort einloggen können
 **Dateien am Kali 1:**
 - Die Datei `known_hosts` wurde aktualisiert
 
-## 3. Übung Zeitmessung
-Schreibe 2 Skripts: time_start.sh und time_stop.sh. Bei Aufruf von `time_stop.sh` wird die Anzahl der Sekunden ausgegeben die seit dem letzten Aufruf von `time_start.sh` vergangen sind.
-
+## Edwards curves für SSH
+- Konfiguration: `ssh-keygen -t ed25519` Danach wie gewohnt mit `ssh-copy-id` übertragen.
+- Vorteile:
+  -D
 **time_start.sh:**
 
 ```sh
