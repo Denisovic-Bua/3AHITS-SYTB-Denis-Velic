@@ -57,43 +57,6 @@ Jetzt solltest du dich ohne Passwort einloggen können
 ## Edwards curves für SSH
 - Konfiguration: `ssh-keygen -t ed25519` Danach wie gewohnt mit `ssh-copy-id` übertragen.
 - Vorteile:
-  - D
-**time_start.sh:**
-
-```sh
-#!/bin/bash
-
-# Aktuelle UNIX-Zeit ermitteln
-start_zeit=$(date +%s)
-
-# Zeit temporär speichern
-echo $start_zeit > /tmp/start_zeit.txt
-
-```
-
-**time_stop.sh:**
-
-```sh
-#!/bin/bash
-
-# Startzeit aus der Datei lesen
-start_zeit=$(cat /tmp/start_zeit.txt)
-
-# Aktuelle Zeit ermitteln
-stop_zeit=$(date +%s)
-
-# Differenz rechnen
-vergangen=$((stop_zeit - start_zeit))
-
-# Ergebnis 
-echo "$vergangen Sekunden sind vergangen."
-```
-
-**Ausgabe:**
-```sh
-./time_start.sh
-# Paar sekunden warten
-./time_stop.sh
-5
-```
-
+  - Sicherer weil keine bekannte Schwachstelle oder Hintertüren
+  - Schneller weil die Berechnungen sind CPU schonender
+  - Der Schlüssel ist viel kürzer als ein 4096-Bit RSA Key
