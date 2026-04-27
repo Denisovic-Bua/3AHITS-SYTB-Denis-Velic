@@ -57,7 +57,7 @@ Jetzt solltest du dich ohne Passwort einloggen können
 ## Edwards curves für SSH
 - Konfiguration: `ssh-keygen -t ed25519` Danach wie gewohnt mit `ssh-copy-id` übertragen.
 - Vorteile:
-  -D
+  - D
 **time_start.sh:**
 
 ```sh
