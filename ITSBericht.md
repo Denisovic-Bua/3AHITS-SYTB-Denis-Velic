@@ -13,9 +13,9 @@
 
 ---
 
+### SSH Key 
 
-
-## Kali 2 ( Server ) Konfigurieren
+### Kali 2 ( Server ) Konfigurieren
 
 Die Anleitung auf [GeeksForGeeks](https://www.geeksforgeeks.org/linux-unix/how-to-enable-and-start-ssh-on-kali-linux/)
 
@@ -29,40 +29,31 @@ sudo systemctl start ssh
 
 sudo systemctl enable ssh
 ```
-**Ausgabe:**
+
+Jetzt Probier auf **Kali 1** dich mit SSH auf **Kali 2** zu verbinden
 ```sh
-./multi.sh 5 6
-let: 30
-expr: 30
-(()): 30
+ssh kali@192.168.11.53
 ```
 
+### Kali 1
 
-## 2. Übung Werkstatt Summe
-
-Schreibe ein shell Script dass die Summe aller Beträge in klassenkassa.csv mit dem Text Werkstatt in ermittelt.
-
-**werkstatt.sh:**
 ```sh
-#!/bin/bash
+ssh-keygen
 
-# grep sucht "Werkstatt" cut holt Spalte 3. zweites cut entfernt Nachkommastellen 
-# paste verbindet alles mit +
-ausdruck=$(grep "Werkstatt" klassenkassa.csv | cut -d',' -f3 | cut -d'.' -f1 | paste -sd+ -)
+ssh-copy-id kali@192.168.11.53
 
-# 2. Berechnung 
-ergebnis=$((ausdruck))
-
-# 3. Ausgabe
-echo "Der Ausdruck: $ausdruck"
-echo "Die Summe: $ergebnis" (GANZZAHL)
+ssh kali@192.168.11.53
 ```
-**Augabe:**
-```sh
-./werkstatt.sh
-Der Ausdruck: 15+13+42+23+33+5+25+7+15+18+6+10+15+8+14+18+12+14+12+13+6+8
-Die Summe: 322
-```
+Jetzt solltest du dich ohne Passwort einloggen können
+
+**Datein am Server ( Kali 2) nach `ssh-copy ip kali@192.168.11.53`:**
+- **Datei**: `~/.ssh/authorized_keys` wurde generiert
+- Der Public key wurde geändert
+- Das Verzeichnis .ssh 700, die Datei 600
+
+**Dateien am Kali 1:**
+- Die Datei `known_hosts` wurde aktualisiert
+
 ## 3. Übung Zeitmessung
 Schreibe 2 Skripts: time_start.sh und time_stop.sh. Bei Aufruf von `time_stop.sh` wird die Anzahl der Sekunden ausgegeben die seit dem letzten Aufruf von `time_start.sh` vergangen sind.
 
