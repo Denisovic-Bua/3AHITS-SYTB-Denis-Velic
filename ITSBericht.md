@@ -60,3 +60,16 @@ Jetzt solltest du dich ohne Passwort einloggen können
   - Sicherer weil keine bekannte Schwachstelle oder Hintertüren
   - Schneller weil die Berechnungen sind CPU schonender
   - Der Schlüssel ist viel kürzer als ein 4096-Bit RSA Key
+ 
+## Windows Login
+
+Windows mit ssh verbinden ohne passwort zu nutzen
+
+**Windows Powershell öffnen:**
+```sh
+ssh-keygen
+
+cat ~/.ssh/id_ed25519.pub | ssh denis.velic@10.10.10.11 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"
+```
+wenn ich jetzt eingebe `ssh denis.velic@10.10.10.11` kann ich mich direkt verbinden mit ssh ohne Passwort
+
