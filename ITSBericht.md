@@ -13,37 +13,21 @@
 
 ---
 
-## Theorie
-In der Bash ist die Doppelklammer-Arithmetik (( )) der neuste und schnellste Standard für Ganzzahlberechnungen im **C Schreib Stil** Während `let` und `expr` ältere Alternativen sind, ermöglichen die Klammern eine saubere Syntax mit Leerzeichen und direkten Variablenzuweisungen ohne das $-Zeichen zu benutzen
 
 
+## Kali 2 ( Server ) Konfigurieren
 
-## 1. Übung Multiplizierer
+Die Anleitung auf [GeeksForGeeks](https://www.geeksforgeeks.org/linux-unix/how-to-enable-and-start-ssh-on-kali-linux/)
 
-Erstelle ein Skript das 2 Zahlen als Kommandozeilenargumente übernimmt. Multipliziere diese Zahlen und gib das Ergebnis aus, verwende jede der 3 besprochenen Methoden.
-
-**multi.sh:**
+**Shell**
 ```sh
-#!/bin/bash
+sudo apt update 
 
-# Zahlen aus den Argumenten holen
-Zahl1=$1
-Zahl2=$2
+sudo apt install openssh-server
 
-# 1.Methode "let"
+sudo systemctl start ssh
 
-let Ergebnis1=$Zahl1*$Zahl2
-echo "let: $Ergebnis1"
-
-# 2. Methode "expr"
-
-Ergebnis2=$(expr $Zahl1 \* $Zahl2)
-echo "expr: $Ergebnis2"
-
-# 3. Methode "Doppelklammer(())"
-
-Ergebnis3=$(( Zahl1 * Zahl2))
-echo "(()): $Ergebnis3"
+sudo systemctl enable ssh
 ```
 **Ausgabe:**
 ```sh
@@ -52,9 +36,7 @@ let: 30
 expr: 30
 (()): 30
 ```
-Bei expr musst man das `\*` schreiben damit die Shell nicht denkt du meinst alle Dateien im Ordner.
 
-Bei der Doppelklammer kannst du innerhalb der Klammern das $-Zeichen weglassen
 
 ## 2. Übung Werkstatt Summe
 
