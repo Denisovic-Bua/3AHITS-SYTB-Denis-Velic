@@ -15,9 +15,9 @@
 ---
 
 ## Was ist Steghide?
-- **Steghide** ist ein OpenSource Tool für **Sternographie**, das heißt es versteckt geheim Daten in einem Bild- oder Audiodatei, ohne das es sich vom Original optisch oder akustisch verändert.
+#### **Steghide** ist ein OpenSource Tool für **Sternographie**, das heißt es versteckt geheim Daten in einem Bild- oder Audiodatei, ohne das es sich vom Original optisch oder akustisch verändert.
 
-- Unterstütze Formate:
+- **Unterstütze Formate:**
   - JPEG, BMP, WAV und AU-Dateien
 
  Es arbeitet mit dem Verschlüsselungsverfahren AES-128
