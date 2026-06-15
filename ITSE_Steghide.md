@@ -24,7 +24,7 @@
 
 ### Sternographie Anwenden
 **Bild zum Sternographieren:**
-<img width="1080" height="1080" alt="freakbob" src="https://github.com/user-attachments/assets/0dccd2ec-d53c-4c40-aa7b-602ea63b7765" />
+<img width="1080/3" height="1080/3" alt="freakbob" src="https://github.com/user-attachments/assets/0dccd2ec-d53c-4c40-aa7b-602ea63b7765" />
 
 Dann in der Shell:
 ```sh
@@ -43,5 +43,5 @@ the file "geheim.txt" does already exist. overwrite ? (y/n) y
 wrote extracted data to "geheim.txt".
 ```
 
-***Bild verändert:**
-<img width="1080" height="1080" alt="stego_bild" src="https://github.com/user-attachments/assets/b92275a6-84bb-4470-94f5-62233a05dc0c" />
+**Bild verändert:**
+<img width="1080/3" height="1080/3" alt="stego_bild" src="https://github.com/user-attachments/assets/b92275a6-84bb-4470-94f5-62233a05dc0c" />
