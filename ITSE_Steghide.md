@@ -44,4 +44,6 @@ wrote extracted data to "geheim.txt".
 ```
 
 **Bild verändert:**
+
+
 <img width="360" height="360" alt="stego_bild" src="https://github.com/user-attachments/assets/b92275a6-84bb-4470-94f5-62233a05dc0c" />
