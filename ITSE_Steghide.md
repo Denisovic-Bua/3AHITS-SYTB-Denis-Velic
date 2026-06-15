@@ -4,10 +4,10 @@
 
 ![Student](https://img.shields.io/badge/Student-Denis%20VELIC-lightblue?style=for-the-badge&logo=github)
 ![Klasse](https://img.shields.io/badge/Klasse-3AHITS-blue?style=for-the-badge&logo=googleclassroom&logoColor=white)
-![Datum](https://img.shields.io/badge/Datum-27.04.2026-darkblue?style=for-the-badge&logo=googlecalendar&logoColor=white)
+![Datum](https://img.shields.io/badge/Datum-15.06.2026-darkblue?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
 ## 👤 Basisinformationen
-| **Thema** | [0802_ssh_private_key_ue01](https://github.com/HTL-Braunau-probst/ITSE-3-LAB-AHITS23/blob/main/0802_ssh_private_key_ue01.md)
+| **Thema** | [1001_steganographie_ue01](https://github.com/HTL-Braunau-probst/ITSE-3-LAB-AHITS23/blob/main/1001_steganographie_ue01.md)
 
 | **Fach** | ITSE 
 
