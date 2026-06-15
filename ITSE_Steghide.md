@@ -24,6 +24,8 @@
 
 ## Sternographie Anwenden:
 **Bild zum Sternographieren:**
+
+
 <img width="360" height="360" alt="freakbob" src="https://github.com/user-attachments/assets/0dccd2ec-d53c-4c40-aa7b-602ea63b7765" />
 
 Dann in der Shell:
