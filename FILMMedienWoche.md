@@ -1,5 +1,9 @@
 # Grundsätzliche Idee
 
+## FILM: PROJECT NOVA
+
+
+
 ### Szene 1+-
 
 irgendwo im Zimmer PC licht fällt aufs gesicht vom Monitor usw, er spricht darüber in einem forum wie depad sei schui is. 
