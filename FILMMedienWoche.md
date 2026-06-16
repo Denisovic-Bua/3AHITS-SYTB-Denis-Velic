@@ -1,6 +1,6 @@
 # Grundsätzliche Idee
 
-**Szene 1+-**
+### Szene 1+-
 
 irgendwo im Zimmer PC licht fällt aufs gesicht vom Monitor usw, er spricht darüber in einem forum wie depad sei schui is. 
 In einem chat tab was auch immer öffnet schreibt ihm jemand der "NOVA" oder sowas heißt bla bla bla er denkt genau so wie der hauptchrakter und hat nen plan wie man es macht usw. und will sich treffen. 
