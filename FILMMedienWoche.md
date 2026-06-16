@@ -20,3 +20,9 @@ Am abend irgendwo in der schui wenn es svho bissl dunkel ist oder wo immer sind 
 **Szene 5+-**
 
 **2ter twist** ist dann polizei kommt oder der wächter und erwischt ihn und tut auf unschuldig und sagt jemand hat ihn gezwungen und erpresst es zu tun und weint fast und ist gestresst, der Wächter sagt kommt mit und will ihn aus der Schule rausbringen während er rausgeführt wird Sagt er in die Kamera mit Novas stimme "Hallo Freund. Du dachtest ich bin derjenige der  hier verloren hat, weil er erwischt wurde? Das ist das Problem mit Systemen... man kann sie alle manipulieren. Sogar dich. Danke fürs Alibi" und setzt NOVAs Maske auf **CUT AUF SCHWARZ**
+
+
+# IDEE FÜR MASKE:
+
+<img width="282" height="290" alt="image" src="https://github.com/user-attachments/assets/1dcb111c-6212-4658-9a77-367f1f767bf0" />
+
