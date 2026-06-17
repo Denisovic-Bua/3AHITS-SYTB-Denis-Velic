@@ -28,7 +28,6 @@ Am abend irgendwo in der schui wenn es svho bissl dunkel ist oder wo immer sind 
 
 # IDEE FÜR MASKE:
 
-<img width="282" height="290" alt="image" src="https://github.com/user-attachments/assets/1dcb111c-6212-4658-9a77-367f1f767bf0" />
+Entweder ne Chrome Spike maske oder irgendwas ähnlcihes wie ne Anonymous maske oder sowas
 
-https://www.fruugo.at/funny-mask-studded-spikes-full-face-jewel-margiela-face-cover-holiday-halloween-horror-mascaras-masq/p-446701238-938077877?language=en
 
