@@ -28,6 +28,14 @@ Am abend irgendwo in der schui wenn es svho bissl dunkel ist oder wo immer sind 
 
 # IDEE FÜR MASKE:
 
-Entweder ne Chrome Spike maske oder irgendwas ähnlcihes wie ne Anonymous maske oder sowas
+Entweder ne Chrome Spike maske oder irgendwas ähnliches wie ne Anonymous maske oder sowas
 
+# Locations: 
+
+- Bei jemanden zuhause im zimmer ( in der Nacht )
+- Irgendwo draußen am abend bei dämmerung
+- Am besten schule EDV Raum wo es dunkler ist
+- Schulkeller
+- Schulflur
+- paar zwischen locations falls nötig
 
