@@ -1,5 +1,5 @@
 
-# 📑 SSH Private Key Bericht
+# 📑 Steghide Bericht
 
 
 ![Student](https://img.shields.io/badge/Student-Denis%20VELIC-lightblue?style=for-the-badge&logo=github)
