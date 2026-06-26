@@ -39,3 +39,12 @@ Entweder ne Chrome Spike maske oder irgendwas ähnliches wie ne Anonymous maske 
 - Schulflur
 - paar zwischen locations falls nötig
 
+
+# Einteilung:
+- Denis ( Filmen, Schneiden )
+- Elia und Mate ( Freund von Maincharakter )
+- Schauer ( Mainchar, Organisierer/Drehbuch )
+- Enrico ( NoVa )
+- Viktor ( Wächter, Lehrer ) 
+
+
