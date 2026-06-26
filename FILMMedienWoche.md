@@ -1,193 +1,242 @@
 # PROJECT NOVA
 
-## Genre
 
-Psychothriller / Mystery / Hackerfilm
 
 ## Länge
 
 **7--10 Minuten**
 
--   Szene 1: ca. 1:30 min
--   Szene 2: ca. 1:30 min
--   Szene 3: ca. 1:30 min
--   Szene 4: ca. 2:30--3 min
--   Szene 5: ca. 1--2 min
+------------------------------------------------------------------------
+
+# Kurzbeschreibung
+
+Ein frustrierter HTL-Schüler lernt im Internet den geheimnisvollen
+Hacker **NOVA** kennen, der sich an der Schule rächen will. Gemeinsam
+planen sie einen Angriff auf das Schulsystem. Doch während der Plan
+umgesetzt wird, verschwimmen Realität und Einbildung immer mehr. Am Ende
+muss der Hauptcharakter erkennen, dass Nova nie existiert hat -- und
+dass die größte Gefahr die ganze Zeit in ihm selbst steckte.
 
 ------------------------------------------------------------------------
 
-# Handlung
+# Intro (0:00--0:20)
 
-## Szene 1 -- Der Kontakt (Zimmer, Nacht)
+Der Film beginnt mit einer ruhigen, friedlichen Aufnahme der Schule.
+
+-   Vogelgezwitscher
+-   Sonnenaufgang oder ruhiger Schulflur
+-   Sanfte Musik
+-   Alles wirkt normal.
+
+Nach etwa zwei Sekunden friert das Bild plötzlich ein.
+
+Ein heftiger Glitch-Effekt unterbricht die Szene.
+
+Der Bildschirm wird schwarz.
+
+Langsam erscheint ein altes Fernsehbild mit digitalem Rauschen.
+
+In der Mitte sitzt **NOVA**, mit Maske und Kapuze.
+
+Seine Stimme ist verzerrt.
+
+> "Wenn du das siehst..."
+
+Glitch.
+
+> "...ist es bereits zu spät."
+
+Glitch.
+
+> "Systeme erschaffen Ordnung."
+
+Glitch.
+
+> "Ordnung erschafft Kontrolle."
+
+Glitch.
+
+> "Und Kontrolle..."
+
+> "...macht blind."
+
+Nova blickt direkt in die Kamera.
+
+> **"Willkommen bei PROJECT NOVA."**
+
+Der Bildschirm fällt erneut in sich zusammen.
+
+Schwarz.
+
+# PROJECT NOVA
+
+Danach beginnt der eigentliche Film.
+
+------------------------------------------------------------------------
+
+# Szene 1 -- Der Kontakt
 
 Der Hauptcharakter sitzt alleine vor seinem PC. Nur das Licht des
 Monitors beleuchtet sein Gesicht.
 
-Er schreibt in einem Forum darüber, wie unfair die HTL ist, wie schwer
-alles geworden ist und dass Lehrer manche Schüler bevorzugen.
+Er schreibt in einem Forum über seinen Frust mit der HTL. Kurz darauf
+schreibt ihn der unbekannte Benutzer **NOVA** an.
 
-Kurz darauf erhält er eine Nachricht von einem unbekannten Benutzer
-**NOVA**.
+Nova behauptet, ehemaliger HTL-Schüler zu sein und erzählt, dass er
+unfair behandelt wurde und deshalb sitzen geblieben ist.
 
-Nova behauptet, früher selbst HTL-Schüler gewesen zu sein. Er erzählt,
-dass Lehrer ihn unfair behandelt hätten und er deshalb sitzen geblieben
-sei.
+Er will sich rächen und das Schulsystem verschlüsseln.
 
-Nova schlägt vor, sich an der Schule zu rächen, indem das Schulsystem
-verschlüsselt wird. Ziel ist es, Noten und interne Daten unzugänglich zu
-machen.
+Zum Schluss schlägt Nova ein Treffen vor.
 
-Am Ende schlägt Nova ein Treffen vor.
+------------------------------------------------------------------------
 
-## Szene 2 -- Die Entscheidung (Schule)
+# Szene 2 -- Die Entscheidung
 
-Der Hauptcharakter erzählt zwei Freunden von Nova und zeigt ihnen den
-Chat.
+Der Hauptcharakter erzählt zwei Freunden von Nova.
 
-Sie erzählen überrascht, dass auch sie Nachrichten von Nova erhalten
-haben.
+Er zeigt ihnen den Chat.
 
-Nach einer Diskussion entscheiden sie sich mitzumachen.
+Die beiden erzählen überrascht, dass auch sie Nachrichten von Nova
+erhalten haben.
 
-## Szene 3 -- Das Treffen (Draußen)
+Nach einer kurzen Diskussion entscheiden sie sich gemeinsam mitzumachen.
 
-Nova erscheint mit Maske und Kapuze. Sein Gesicht wird nie gezeigt.
+------------------------------------------------------------------------
 
-Er erklärt den Plan und übergibt dem Hauptcharakter einen USB-Stick mit
-der Schadsoftware.
+# Szene 3 -- Das Treffen
 
-> „Ab jetzt gibt es kein Zurück."
+An einem abgelegenen Ort treffen sie Nova.
 
-## Szene 4 -- Der Angriff (Schule)
+Er trägt Maske und Kapuze.
 
-Nach Unterrichtsende bleiben die drei unbemerkt in der Schule.
+Sein Gesicht wird nie gezeigt.
 
-Mögliche Hürden:
+Nova erklärt den Plan und übergibt dem Hauptcharakter einen USB-Stick
+mit der Schadsoftware.
 
--   Vor dem Hausmeister verstecken.
--   Fast den USB-Stick verlieren.
--   Administrator-Passwort.
--   Einer bekommt Angst.
--   Schritte im Gang kurz vor Abschluss.
+> **„Ab jetzt gibt es kein Zurück."**
 
-Schließlich läuft der Angriff erfolgreich.
+------------------------------------------------------------------------
 
-Der Hauptcharakter schreibt:
+# Szene 4 -- Der Angriff
 
-> „Wir haben es geschafft."
+Nach Unterrichtsende bleiben die drei heimlich in der Schule.
+
+Sie schleichen durch dunkle Flure und verstecken sich vor dem
+Hausmeister.
+
+Im EDV-Raum wird der USB-Stick angeschlossen.
+
+Während der Angriff läuft, schreibt der Hauptcharakter:
+
+> **„Wir haben es geschafft."**
 
 Nova antwortet:
 
-> „Ich weiß."
+> **„Ich weiß."**
 
-> „DU hast es geschafft."
+> **„DU hast es geschafft."**
 
-> „Ich stand die ganze Zeit hinter dir."
+> **„Ich stand die ganze Zeit hinter dir."**
 
-Er dreht sich um.
+Der Hauptcharakter dreht sich um.
 
 Nova steht hinter ihm.
 
-Ohne Maske.
+Langsam nimmt Nova die Maske ab.
 
-Es ist er selbst.
+Es ist der Hauptcharakter selbst.
 
-### Twist 1
+Die Freunde verschwinden.
+
+Schwarzblende.
+
+------------------------------------------------------------------------
+
+# Twist
 
 Beide sitzen sich in einem dunklen Raum gegenüber.
 
-Nova erklärt:
+Nova sagt:
 
--   DU hast alles programmiert.
--   DU hast alles organisiert.
--   Ich war nur die Stimme in deinem Kopf.
+> „Du dachtest, ich hätte alles gemacht."
 
-Der Zuschauer erkennt, dass Nova die zweite Persönlichkeit des
-Hauptcharakters ist.
+> „Aber DU hast programmiert."
 
-## Szene 5 -- Das Ende
+> „DU hast organisiert."
+
+> „DU hast den Virus geschrieben."
+
+> **„Ich war nur der Teil von dir, den du nie kontrollieren konntest."**
+
+Jetzt erkennt der Zuschauer, dass Nova nie real war.
+
+------------------------------------------------------------------------
+
+# Szene 5 -- Das Ende
 
 Der Hausmeister erwischt den Hauptcharakter.
 
-Er behauptet, jemand habe ihn gezwungen.
+Er spielt den Verängstigten und behauptet, jemand habe ihn gezwungen.
 
 Der Hausmeister führt ihn aus der Schule.
 
-Kurz vor Schluss blickt der Hauptcharakter in die Kamera.
+Kurz vor dem Ausgang bleibt der Hauptcharakter stehen.
 
-Mit Novas Stimme sagt er:
+Er blickt direkt in die Kamera.
 
-> „Hallo Freund. Du dachtest ich hätte verloren? Das Problem mit
-> Systemen ist: Man kann sie alle manipulieren. Sogar dich. Danke für
-> das Alibi."
+Seine Stimme verändert sich.
 
-Er setzt die Nova-Maske auf.
+Jetzt spricht Nova.
+
+> **„Du dachtest, du hättest mich aufgehalten."**
+
+> **„Dabei hast du nur den Teil gesehen, den ich wollte."**
+
+Er setzt langsam die Nova-Maske auf.
+
+> **„Das Problem mit Systemen ist..."**
+
+> **"...man kann sie alle manipulieren."**
+
+> **„Sogar dich."**
+
+Kurze Pause.
+
+> **„Danke für das Alibi."**
 
 **CUT TO BLACK**
 
+------------------------------------------------------------------------
+
 # Drehorte
 
--   Zimmer (PC, Forum, Chat)
+-   Zimmer
 -   Schulflur
 -   Klassenzimmer
 -   EDV-Raum
 -   Schulkeller
--   Draußen (Treffen mit Nova)
+-   Draußen
 -   Ausgang der Schule
--   Dunkler Raum für den Twist
+-   Dunkler Raum
+
+------------------------------------------------------------------------
 
 # Rollen
 
 -   Schauer -- Hauptcharakter
--   Enrico -- Nova
+-   Enrico -- NOVA
 -   Elia -- Freund 1
 -   Mate -- Freund 2
 -   Viktor -- Hausmeister/Wächter
 -   Denis -- Kamera & Schnitt
 -   Chrisi -- Regie
 
-# Drehliste
+------------------------------------------------------------------------
 
-## Zimmer
+# Extra-Idee
 
--   PC-Aufnahmen
--   Forum
--   Chat
--   Nahaufnahmen
--   Monitorlicht
-
-## Schule
-
--   Gespräch mit Freunden
--   Schleichen
--   Hausmeister
--   EDV-Raum
--   Hacker-Szene
-
-## Draußen
-
--   Treffen mit Nova
--   USB-Übergabe
-
-## Dunkler Raum
-
--   Twist
-
-## Ausgang
-
--   Festnahme
--   Schlussmonolog
--   Maske
--   Schwarzblende
-
-# Umsetzung ohne Nachtdreh
-
-Da die Schule nur bis ca. 17:30 genutzt werden kann:
-
--   Nach Unterrichtsende in der leeren Schule drehen.
--   Jalousien schließen.
--   Hauptsächlich Monitorlicht und wenig Raumlicht verwenden.
--   Keller und dunkle Flure nutzen.
--   Keine Fenster zeigen.
-
-Dadurch wirkt die Schule trotzdem wie bei Nacht.
+Lasst Nova im ganzen Film immer wieder für 1--2 Frames mit einem
+Glitch-Effekt aufblitzen. Beim zweiten Anschauen merkt der Zuschauer,
+dass Nova die ganze Zeit präsent war.
