@@ -46,5 +46,6 @@ Entweder ne Chrome Spike maske oder irgendwas ähnliches wie ne Anonymous maske 
 - Schauer ( Mainchar, Organisierer/Drehbuch )
 - Enrico ( NoVa )
 - Viktor ( Wächter, Lehrer ) 
+- Chrisi ( Regisseur ) 
 
 
