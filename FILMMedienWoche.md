@@ -234,9 +234,4 @@ Kurze Pause.
 -   Chrisi -- Regie
 
 ------------------------------------------------------------------------
-
-# Extra-Idee
-
-Lasst Nova im ganzen Film immer wieder für 1--2 Frames mit einem
-Glitch-Effekt aufblitzen. Beim zweiten Anschauen merkt der Zuschauer,
-dass Nova die ganze Zeit präsent war.
+.
